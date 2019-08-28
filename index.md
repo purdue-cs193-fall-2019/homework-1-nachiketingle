@@ -1,4 +1,4 @@
-### Nachiket Ingle's First CS193 Homework
+# Nachiket Ingle's First CS193 Homework
 
 ## Welcome to GitHub Pages
 
