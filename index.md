@@ -1,5 +1,17 @@
 # Nachiket Ingle's First CS193 Homework
 
+## List of Things I just love about CS193
+### (Because I can totally list many things after only one class)
+
+- It is so easy to find a spot to sit in class
+- I can already see how every single thing in the course is useful
+- I believe I will not have any problems at all
+
+- All jokes aside, I believe that this will be a great class
+- The instructors seem nice
+- Everything in the course syllabus seems to be useful, and prominent in coding
+- Honestly, this is difficult after only one lecture
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
